@@ -68,10 +68,10 @@ public class TwitterProducer {
     }
 
     public static class TwitterConfiguration{
-        public static final String CONSUMER_KEY = "kbq5pTJ18ShbF2hw0diCDg34W";
-        public static final String CONSUMER_SECRET = "V0QuikKQcBP4PX6NMSNfZPBvPcl0wcqiGfHEOosQejiAxbBZWe";
-        public static final String ACCESS_TOKEN = "819133877281140736-32q0deniqF6XYq8dKal0yBmGsW8KTPj";
-        public static final String TOKEN_SECRET = "OtWckEzliNNsoOaCrTv0aAMqcdJEyDaz4r8KBkGKpp18d";
+        public static final String CONSUMER_KEY = "...";
+        public static final String CONSUMER_SECRET = "...";
+        public static final String ACCESS_TOKEN = "...";
+        public static final String TOKEN_SECRET = "...";
         public static final String[] HASHTAGS = new String[]{"election"};
     }
 }
